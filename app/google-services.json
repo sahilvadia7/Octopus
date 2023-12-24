@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430706651375",
+    "project_id": "notes-880c4",
+    "storage_bucket": "notes-880c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430706651375:android:19bf9c3b80443618dbab1a",
+        "android_client_info": {
+          "package_name": "com.saunak.notetakingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnbDMAdAWlElsc2E8awtE9r1AtVUbK_pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
